@@ -1,0 +1,20 @@
+{
+  "calendar": "Dominican Restoration Ordo",
+  "current_release": {
+    "year": 2026,
+    "version": "v15"
+  },
+  "published_years": [
+    2026
+  ],
+  "subscription_url": "https://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics",
+  "source": "Dominican Master Restoration Calendar 2026 v15",
+  "validation": {
+    "events": 365,
+    "first_date": "2026-01-01",
+    "last_date": "2026-12-31",
+    "unique_uids": 365,
+    "maximum_physical_line_bytes": 75,
+    "sha256": "da7f46b06ca13fa345615b98b0fed58631ebe41bdabe67a727036ee5343fda18"
+  }
+}
