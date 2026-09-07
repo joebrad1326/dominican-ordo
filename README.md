@@ -3,13 +3,17 @@
 Public Apple Calendar subscription for the operational Cormier 1909 Dominican restoration profile.
 
 - **Subscribe:** [Dominican Restoration Ordo](webcal://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics)
-- **Current release:** 2026 · 1909 Restoration Profile (Engine 1.9.0)
+- **Current release:** 2026 v16 · 1909 Restoration Profile (Engine 1.30.0)
 - **Annual archive:** `years/2026.ics`
 
 The stable `dominican-ordo.ics` feed is the rolling subscription. Future audited years and corrections will be added without changing the subscription address. Each liturgical date retains its permanent UID, allowing calendar clients to update existing entries rather than create duplicates.
 
+## Release v16
+
+The Advent, Lenten, and September Ember Days now have genuine II-Class ferial precedence over III- and IV-Class feasts. A proper-day II-Class feast retains its within-class precedence, and transferred feasts may not land on an Ember Day. Pentecost Ember Days remain I Class within the privileged Octave of Pentecost.
+
 ## Source and scope
 
-The 2026 feed was rebuilt from the sole active `1909_restoration` profile. It includes the Cormier temporal and sanctoral cycles, the settled occurrence and concurrence rules, restored octaves and vigils, later Dominican and General Roman additions, and the applicable United States, Central Province, Archdiocese of St. Louis, and Sacred Heart Valley Park layers.
+The 2026 feed is generated from the sole active `1909_restoration` profile. It includes the Cormier temporal and sanctoral cycles, the settled occurrence and concurrence rules, restored octaves and vigils, later Dominican and General Roman additions, and the applicable United States, Central Province, Archdiocese of St. Louis, and Sacred Heart Valley Park layers.
 
 The generated Ordo and its audits remain the controlling source; this repository publishes the calendar-view derivative.

@@ -2,22 +2,23 @@
   "calendar": "Dominican Restoration Ordo",
   "current_release": {
     "year": 2026,
+    "release": "v16",
     "profile": "1909_restoration",
-    "engine_version": "1.9.0"
+    "engine_version": "1.30.0"
   },
   "published_years": [
     2026
   ],
   "subscription_url": "https://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics",
   "source": "Operational Cormier 1909 restoration profile",
-  "generated_at": "2026-09-07T02:12:50Z",
+  "generated_at": "2026-09-07T02:42:00Z",
   "validation": {
     "events": 365,
     "first_date": "2026-01-01",
     "last_date": "2026-12-31",
     "unique_uids": 365,
     "maximum_physical_line_bytes": 75,
-    "bytes": 493244,
-    "sha256": "0cb35b5077516c27049568de6b3794210bd1911e4c061899a6c44536926d0787"
+    "bytes": 492478,
+    "sha256": "dfc13867988bf1e4e289276fc9f99f67755002b45cf532f3755a3ab247c12630"
   }
 }
