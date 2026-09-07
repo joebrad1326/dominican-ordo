@@ -3,14 +3,14 @@
 Public Apple Calendar subscription for the operational Cormier 1909 Dominican restoration profile.
 
 - **Subscribe:** [Dominican Restoration Ordo](webcal://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics)
-- **Current release:** 2026 v16 · 1909 Restoration Profile (Engine 1.30.0)
+- **Current release:** 2026 v17 · 1909 Restoration Profile (Engine 1.31.0)
 - **Annual archive:** `years/2026.ics`
 
 The stable `dominican-ordo.ics` feed is the rolling subscription. Future audited years and corrections will be added without changing the subscription address. Each liturgical date retains its permanent UID, allowing calendar clients to update existing entries rather than create duplicates.
 
-## Release v16
+## Release v17
 
-The Advent, Lenten, and September Ember Days now have genuine II-Class ferial precedence over III- and IV-Class feasts. A proper-day II-Class feast retains its within-class precedence, and transferred feasts may not land on an Ember Day. Pentecost Ember Days remain I Class within the privileged Octave of Pentecost.
+The ordinary Tuesday, Wednesday, Thursday, and Saturday Dominican suffrages now belong to the opening Vespers and Lauds of the named day; they are not repeated at its outgoing Vespers. The Sunday Marian suffrage remains at First Vespers, Lauds, and Second Vespers unless concurrence displaces Second Vespers.
 
 ## Source and scope
 
