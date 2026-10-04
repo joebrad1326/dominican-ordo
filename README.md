@@ -3,17 +3,24 @@
 Public Apple Calendar subscription for the operational Cormier 1909 Dominican restoration profile.
 
 - **Subscribe:** [Dominican Restoration Ordo](webcal://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics)
-- **Current release:** 2026 v17 · 1909 Restoration Profile (Engine 1.31.0)
+- **Current annual release:** Ordo 2026 v18, Engine 1.33.0
+- **Liturgical year:** November 30, 2025 through November 28, 2026 (364 days)
 - **Annual archive:** `years/2026.ics`
+- **Civil 2026 compatibility archive:** `years/2026-civil.ics`
+- **Preserved v17 archive:** `years/2026-v17-civil.ics`
 
-The stable `dominican-ordo.ics` feed is the rolling subscription. Future audited years and corrections will be added without changing the subscription address. Each liturgical date retains its permanent UID, allowing calendar clients to update existing entries rather than create duplicates.
+Annual Ordos begin with the First Sunday of Advent of the preceding civil year and end on the Saturday before the next First Sunday of Advent. Ordo 2027 therefore begins November 29, 2026; its full annual edition is in preparation.
 
-## Release v17
+The stable `dominican-ordo.ics` subscription retains the previously published November 29-December 31, 2026 entries while the 2027 edition is reviewed. It contains 397 unique all-day entries from November 30, 2025 through December 31, 2026. Each date retains its permanent UID, so clients update existing entries without creating duplicates.
 
-The ordinary Tuesday, Wednesday, Thursday, and Saturday Dominican suffrages now belong to the opening Vespers and Lauds of the named day; they are not repeated at its outgoing Vespers. The Sunday Marian suffrage remains at First Vespers, Lauds, and Second Vespers unless concurrence displaces Second Vespers.
+## Release v18
+
+Sundays after Pentecost now have explicit numbers, corresponding Cormier source headings and stable proper identifiers. The monthly Matins Scripture cycle remains a separate selection. Resumed Epiphany Sundays and the Twenty-fourth and Last Sunday after Pentecost follow the Cormier insertion table.
+
+Vespers are resolved across civil and liturgical year boundaries. A transferred feast moves only its own attached octave, including across January 1; January 2026 is no longer altered by the separate December 2026 transfer of Saint John.
+
+The ordinary Tuesday, Wednesday, Thursday and Saturday suffrages remain at the opening Vespers and Lauds of the named day. The Sunday Marian suffrage remains at First Vespers, Lauds and Second Vespers unless concurrence displaces Second Vespers.
 
 ## Source and scope
 
-The 2026 feed is generated from the sole active `1909_restoration` profile. It includes the Cormier temporal and sanctoral cycles, the settled occurrence and concurrence rules, restored octaves and vigils, later Dominican and General Roman additions, and the applicable United States, Central Province, Archdiocese of St. Louis, and Sacred Heart Valley Park layers.
-
-The generated Ordo and its audits remain the controlling source; this repository publishes the calendar-view derivative.
+The sole active `1909_restoration` profile includes the settled Cormier temporal and sanctoral cycles, occurrence and concurrence rules, restored octaves and vigils, later Dominican and General Roman additions, and the applicable United States, Central Province, Archdiocese of St. Louis and Sacred Heart Valley Park layers. The generated Ordo and its audits are the controlling source; this repository publishes the calendar derivative.

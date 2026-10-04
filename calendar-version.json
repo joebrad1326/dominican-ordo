@@ -2,23 +2,50 @@
   "calendar": "Dominican Restoration Ordo",
   "current_release": {
     "year": 2026,
-    "release": "v17",
+    "release": "v18",
     "profile": "1909_restoration",
-    "engine_version": "1.31.0"
+    "engine_version": "1.33.0",
+    "period": "liturgical",
+    "first_date": "2025-11-30",
+    "last_date": "2026-11-28",
+    "days": 364
   },
   "published_years": [
     2026
   ],
   "subscription_url": "https://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics",
-  "source": "Operational Cormier 1909 restoration profile",
-  "generated_at": "2026-09-07T13:29:06Z",
+  "generated_at": "2026-10-04T03:17:19+00:00",
   "validation": {
+    "events": 397,
+    "first_date": "2025-11-30",
+    "last_date": "2026-12-31",
+    "unique_uids": 397,
+    "maximum_physical_line_bytes": 75,
+    "bytes": 585175,
+    "sha256": "c09d56cfdd553fd625f147033a1cf3a5b36378da0d9d8b8a02f62edbb8d209fd"
+  },
+  "annual_archive_validation": {
+    "events": 364,
+    "first_date": "2025-11-30",
+    "last_date": "2026-11-28",
+    "unique_uids": 364,
+    "maximum_physical_line_bytes": 75,
+    "bytes": 539452,
+    "sha256": "75caf648a9e8fbd9a8bdff15a338746312878594d58c506e816d4a544f5389dc"
+  },
+  "civil_archive_validation": {
     "events": 365,
     "first_date": "2026-01-01",
     "last_date": "2026-12-31",
     "unique_uids": 365,
     "maximum_physical_line_bytes": 75,
-    "bytes": 495392,
-    "sha256": "0b4f5061d47998b9ead8c75012eaf59d0c9fb39a198425cc328f080df83eb593"
+    "bytes": 542975,
+    "sha256": "dff132a13d3c18f6ab47d0afb5a6fd137e6d05aa1602d7cb55f34f812f6ee482"
+  },
+  "retained_civil_dates": {
+    "start": "2026-11-29",
+    "end": "2026-12-31",
+    "days": 33,
+    "reason": "Preserve existing subscription coverage while the full 2027 annual edition is reviewed."
   }
 }
