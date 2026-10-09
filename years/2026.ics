@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Dominican Restoration Ordo//Ordo 2026 v22 hybrid correction\; 190
- 9 Restoration Profile (Engine 1.37.0)//EN
+PRODID:-//Dominican Restoration Ordo//Ordo 2026 v23\; 1909 Restoration Prof
+ ile (Engine 1.37.1)//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dominican Restoration Ordo
@@ -9120,9 +9120,9 @@ URL:https://joebrad1326.github.io/dominican-ordo
 END:VEVENT
 BEGIN:VEVENT
 UID:ordo-2026-10-30@dominican-ordo.joebrad1326.github.io
-DTSTAMP:20261006T023740Z
-LAST-MODIFIED:20261006T023740Z
-SEQUENCE:13700
+DTSTAMP:20261009T031644Z
+LAST-MODIFIED:20261009T031644Z
+SEQUENCE:13701
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:II Class - Commemoration of Relics preserved in Dominican churches
@@ -9131,20 +9131,18 @@ DESCRIPTION:Principal Office:\nCommemoration of Relics preserved in Dominic
  al Dominican\n\nCalendar layer:\nSettled fixed reconciliation\n\n1909 Scri
  pture cycle:\nFourth Week of October\n\nTemporal Sunday:\nTwenty-second Su
  nday after Pentecost\n\nCormier Sunday proper:\nTwentieth Sunday after the
-  Trinity Octave\n\nSunday proper ID:\ncormier-post-trinity-octave-20\n\nCo
- mmemorations:\n1. Comm. the Saints Whose Relics Are Preserved in Our Churc
- hes (restored 1909 feast)\n\nVespers / Concurrence:\nSecond Vespers of Com
- memoration of Relics preserved in Dominican churches\; the vigil has no in
- dependent First Vespers.\n\nRestored observance:\nCommemoration of the Sai
- nts Whose Relics Are Preserved in Our Churches\n\nRestoration status:\nRES
- TORED LAYER\n\nText source / action:\nWhen a history-bearing Sunday is imp
- eded\, divide its first middle and last responsory groups once among the a
- vailable ferias under General Rubrics VII.2\; apply the limited Paschal co
- ntinuation of VII.3. For August-November the first Sunday is nearest the K
- alends\; August V repeats the preceding week\; November compresses by omit
- ting its second assignment when only four Sundays occur before Advent.\n\n
- Release:\nOrdo 2026 v22 hybrid correction\; 1909 Restoration Profile (Engi
- ne 1.37.0)
+  Trinity Octave\n\nSunday proper ID:\ncormier-post-trinity-octave-20\n\nVe
+ spers / Concurrence:\nSecond Vespers of Commemoration of Relics preserved 
+ in Dominican churches\; the vigil has no independent First Vespers.\n\nRes
+ tored observance:\nCommemoration of the Saints Whose Relics Are Preserved 
+ in Our Churches\n\nRestoration status:\nRESTORED LAYER\n\nText source / ac
+ tion:\nWhen a history-bearing Sunday is impeded\, divide its first middle 
+ and last responsory groups once among the available ferias under General R
+ ubrics VII.2\; apply the limited Paschal continuation of VII.3. For August
+ -November the first Sunday is nearest the Kalends\; August V repeats the p
+ receding week\; November compresses by omitting its second assignment when
+  only four Sundays occur before Advent.\n\nRelease:\nOrdo 2026 v23\; 1909 
+ Restoration Profile (Engine 1.37.1)
 CATEGORIES:Dominican Ordo,II Class
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

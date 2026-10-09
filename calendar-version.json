@@ -2,9 +2,9 @@
   "calendar": "Dominican Restoration Ordo",
   "current_release": {
     "year": 2026,
-    "release": "v22",
+    "release": "v23",
     "profile": "1909_restoration",
-    "engine_version": "1.37.0",
+    "engine_version": "1.37.1",
     "period": "liturgical",
     "first_date": "2025-11-30",
     "last_date": "2026-11-28",
@@ -14,15 +14,15 @@
     2026
   ],
   "subscription_url": "https://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics",
-  "generated_at": "2026-10-06T02:37:40+00:00",
+  "generated_at": "2026-10-09T03:18:17+00:00",
   "validation": {
     "events": 397,
     "first_date": "2025-11-30",
     "last_date": "2026-12-31",
     "unique_uids": 397,
     "maximum_physical_line_bytes": 75,
-    "bytes": 581531,
-    "sha256": "ee3fc3edf3b1c1e5f6abe2f1bf6ce5f5dfcc2ec0b944cdd655a09aa81d31195e"
+    "bytes": 581384,
+    "sha256": "ff414863d2306093f56578eb2e1c57fb66fc8d84a6f7714475469ba90a434f85"
   },
   "annual_archive_validation": {
     "events": 364,
@@ -30,8 +30,8 @@
     "last_date": "2026-11-28",
     "unique_uids": 364,
     "maximum_physical_line_bytes": 75,
-    "bytes": 537930,
-    "sha256": "58650a356cc18e1a8a739b964bd4fcb0c3825c86e718787b08c2a8852393b0a1"
+    "bytes": 537783,
+    "sha256": "8cf04ed19e41f3b09725b75d162ee0bfc2ea304a458389857afe27042f44f629"
   },
   "civil_archive_validation": {
     "events": 365,
@@ -39,8 +39,8 @@
     "last_date": "2026-12-31",
     "unique_uids": 365,
     "maximum_physical_line_bytes": 75,
-    "bytes": 538990,
-    "sha256": "a0b988f9e9e7b945e2372c04617f6f12b863ec5299788fe6c9f29e3895bd70e3"
+    "bytes": 538843,
+    "sha256": "26a143025c3667127738c85dd8fe8b2460ab46b7b7d8636052173a9d2c0e4751"
   },
   "retained_civil_dates": {
     "start": "2026-11-29",
@@ -51,6 +51,8 @@
   "corrections": [
     "Rosary appointed October 7; obsolete October 4 Rosary office and commemorations removed.",
     "Simple octave days are commemorations only. Bruno is principal October 6.",
-    "III Class feasts have First Vespers only; I and II Class feasts retain both Vespers."
-  ]
+    "III Class feasts have First Vespers only; I and II Class feasts retain both Vespers.",
+    "October 30 Holy Relics remains the II Class principal feast; its duplicate restored-name commemoration is removed. Existing event UIDs and all other event records are preserved."
+  ],
+  "revision": 13701
 }
