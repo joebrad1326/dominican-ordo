@@ -1,7 +1,7 @@
 # Dominican Restoration Ordo
 
 - **Subscribe:** [Dominican Restoration Ordo](webcal://joebrad1326.github.io/dominican-ordo/dominican-ordo.ics)
-- **Current release:** Ordo 2026 v23, Engine 1.37.1
+- **Current release:** Ordo 2026 v24, Engine 1.37.5
 - **Annual archive:** `years/2026.ics` (364 days, November 30, 2025–November 28, 2026)
 - **Civil archive:** `years/2026-civil.ics`
 
@@ -16,3 +16,9 @@ Under the user-approved hybrid calendar, simple octave days receive commemoratio
 Historical Cormier classifications remain source evidence. They do not override these adopted hybrid policies. The annual Ordo and breviary website use the same calendar engine and registers.
 
 October 30 Holy Relics remains the II Class principal feast. The restored name now resolves to the same observance, removing its duplicate commemoration. This identity correction also applies to the local 2027 draft. Only the October 30 event is revised in each published feed; all existing event identifiers and late-2026 coverage remain intact.
+
+## Corrections in v24
+
+All Souls is a special I Class commemoration whose proper Office ends after None. November 2, 2026 therefore has First Vespers of Blessed Simon Ballacchi, retaining the All Saints octave commemoration. The engine also follows the printed Saint Charles branch when All Souls occurs on November 3.
+
+Only the November 2 event is changed from v23 in these three feeds. All other event records and every existing UID are preserved. This release preserves the existing subscription address.

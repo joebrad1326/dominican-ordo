@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Dominican Restoration Ordo//Ordo 2026 v23\; 1909 Restoration Prof
- ile (Engine 1.37.1)//EN
+PRODID:-//Dominican Restoration Ordo//Ordo 2026 v24; 1909 Restoration Profi
+ le (Engine 1.37.5)//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Dominican Restoration Ordo
@@ -9214,9 +9214,9 @@ URL:https://joebrad1326.github.io/dominican-ordo
 END:VEVENT
 BEGIN:VEVENT
 UID:ordo-2026-11-02@dominican-ordo.joebrad1326.github.io
-DTSTAMP:20261006T023739Z
-LAST-MODIFIED:20261006T023739Z
-SEQUENCE:13700
+DTSTAMP:20261009T184930Z
+LAST-MODIFIED:20261009T184930Z
+SEQUENCE:13705
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:I Class - Commemoration of All the Faithful Departed
@@ -9227,15 +9227,15 @@ DESCRIPTION:Principal Office:\nCommemoration of All the Faithful Departed\n
   Pentecost\n\nCormier Sunday proper:\nTwenty-first Sunday after the Trinit
  y Octave\n\nSunday proper ID:\ncormier-post-trinity-octave-21\n\nCommemora
  tions:\n1. Comm. All Saints - day within the octave\n\nVespers / Concurren
- ce:\nSecond Vespers of Commemoration of All the Faithful Departed\; I and 
- II Class feasts retain both Vespers under the hybrid policy.\n\nText sourc
- e / action:\nWhen a history-bearing Sunday is impeded\, divide its first m
- iddle and last responsory groups once among the available ferias under Gen
- eral Rubrics VII.2\; apply the limited Paschal continuation of VII.3. For 
- August-November the first Sunday is nearest the Kalends\; August V repeats
-  the preceding week\; November compresses by omitting its second assignmen
- t when only four Sundays occur before Advent.\n\nRelease:\nOrdo 2026 v22 h
- ybrid correction\; 1909 Restoration Profile (Engine 1.37.0)
+ ce:\nFirst Vespers of Bl. Simon Ballacchi O.P.\; the special All Souls Off
+ ice ends after None and has no Second Vespers.\n\nText source / action:\nW
+ hen a history-bearing Sunday is impeded\, divide its first middle and last
+  responsory groups once among the available ferias under General Rubrics V
+ II.2\; apply the limited Paschal continuation of VII.3. For August-Novembe
+ r the first Sunday is nearest the Kalends\; August V repeats the preceding
+  week\; November compresses by omitting its second assignment when only fo
+ ur Sundays occur before Advent.\n\nRelease:\nOrdo 2026 v26\; 1909 Restorat
+ ion Profile (Engine 1.37.5)
 CATEGORIES:Dominican Ordo,I Class
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
